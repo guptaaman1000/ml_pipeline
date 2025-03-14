@@ -1,0 +1,13 @@
+,Missing Values,Data Type
+CustomerID,1,float64
+Age,1,float64
+Gender,1,object
+Tenure,1,float64
+Usage Frequency,1,float64
+Support Calls,1,float64
+Payment Delay,1,float64
+Subscription Type,1,object
+Contract Length,1,object
+Total Spend,1,float64
+Last Interaction,1,float64
+Churn,1,float64

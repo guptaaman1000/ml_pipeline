@@ -1,0 +1,5 @@
+2025-03-14 07:36:35,320 - INFO - Loaded Kaggle dataset with 440833 rows and 12 columns.
+2025-03-14 07:36:35,338 - INFO - Loaded Hugging Face dataset with 7043 rows and 21 columns.
+2025-03-14 07:36:36,014 - INFO - Stored transformed data in Kaggle_transformed table.
+2025-03-14 07:36:36,034 - INFO - Stored transformed data in Hugging_Face_transformed table.
+2025-03-14 07:36:36,034 - INFO - Data transformation completed.

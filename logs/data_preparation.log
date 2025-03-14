@@ -1,0 +1,15 @@
+2025-03-14 07:30:33,156 - INFO - Loaded Kaggle dataset with 440833 rows and 12 columns.
+2025-03-14 07:30:33,168 - INFO - Loaded Hugging Face dataset with 7043 rows and 21 columns.
+2025-03-14 07:30:37,427 - INFO - Cleaned data saved at processed_data/Kaggle_cleaned.csv
+2025-03-14 07:30:37,664 - INFO - Cleaned data saved at processed_data/Hugging Face_cleaned.csv
+2025-03-14 07:30:37,664 - INFO - Data preparation completed.
+2025-03-14 07:33:07,937 - INFO - Loaded Kaggle dataset with 440833 rows and 12 columns.
+2025-03-14 07:33:07,951 - INFO - Loaded Hugging Face dataset with 7043 rows and 21 columns.
+2025-03-14 07:33:12,103 - INFO - Cleaned data saved at processed_data/Kaggle_cleaned.csv
+2025-03-14 07:33:12,394 - INFO - Cleaned data saved at processed_data/Hugging Face_cleaned.csv
+2025-03-14 07:33:12,394 - INFO - Data preparation completed.
+2025-03-14 07:33:30,380 - INFO - Loaded Kaggle dataset with 440833 rows and 12 columns.
+2025-03-14 07:33:30,393 - INFO - Loaded Hugging Face dataset with 7043 rows and 21 columns.
+2025-03-14 07:33:34,534 - INFO - Cleaned data saved at processed_data/Kaggle_cleaned.csv
+2025-03-14 07:33:34,850 - INFO - Cleaned data saved at processed_data/Hugging Face_cleaned.csv
+2025-03-14 07:33:34,851 - INFO - Data preparation completed.

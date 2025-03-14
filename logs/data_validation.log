@@ -1,0 +1,65 @@
+2025-03-14 07:23:05,745 - ERROR - Kaggle dataset not found at raw_data/kaggle/2025-03-14/kaggle_churn.csv
+2025-03-14 07:23:05,745 - ERROR - Hugging Face dataset not found at raw_data/huggingface/2025-03-14/huggingface_churn.csv
+2025-03-14 07:23:05,745 - INFO - Data validation completed.
+2025-03-14 07:23:15,795 - ERROR - Kaggle dataset not found at raw_data/kaggle/2025-03-14/kaggle_churn.csv
+2025-03-14 07:23:15,795 - ERROR - Hugging Face dataset not found at raw_data/huggingface/2025-03-14/huggingface_churn.csv
+2025-03-14 07:23:15,795 - INFO - Data validation completed.
+2025-03-14 07:26:26,014 - INFO - Validating Kaggle dataset with 440833 rows and 12 columns.
+2025-03-14 07:26:26,045 - WARNING - Missing values found in Kaggle:
+CustomerID           1
+Age                  1
+Gender               1
+Tenure               1
+Usage Frequency      1
+Support Calls        1
+Payment Delay        1
+Subscription Type    1
+Contract Length      1
+Total Spend          1
+Last Interaction     1
+Churn                1
+dtype: int64
+2025-03-14 07:26:26,160 - INFO - No duplicate rows in Kaggle dataset.
+2025-03-14 07:26:26,160 - INFO - Data types for Kaggle dataset:
+CustomerID           float64
+Age                  float64
+Gender                object
+Tenure               float64
+Usage Frequency      float64
+Support Calls        float64
+Payment Delay        float64
+Subscription Type     object
+Contract Length       object
+Total Spend          float64
+Last Interaction     float64
+Churn                float64
+dtype: object
+2025-03-14 07:26:26,164 - INFO - Validation report saved: logs/Kaggle_validation_report.csv
+2025-03-14 07:26:26,178 - INFO - Validating Hugging Face dataset with 7043 rows and 21 columns.
+2025-03-14 07:26:26,180 - INFO - No missing values in Hugging Face
+2025-03-14 07:26:26,185 - INFO - No duplicate rows in Hugging Face dataset.
+2025-03-14 07:26:26,185 - INFO - Data types for Hugging Face dataset:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-03-14 07:26:26,186 - INFO - Validation report saved: logs/Hugging Face_validation_report.csv
+2025-03-14 07:26:26,186 - INFO - Data validation completed.
