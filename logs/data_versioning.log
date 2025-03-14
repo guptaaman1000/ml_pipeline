@@ -1,0 +1,2 @@
+2025-03-14 08:02:44,543 - INFO - Initialized data versioning database.
+2025-03-14 08:02:45,778 - ERROR - Data versioning failed: Command '['dvc', 'add', 'processed_data/Kaggle_cleaned.csv']' returned non-zero exit status 1.
